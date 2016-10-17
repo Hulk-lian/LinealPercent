@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LinealPercent</string>
+    <string name="btnA">el texto de A</string>
+    <string name="btnB">Es B</string>
+    <string name="btnC">C</string>
+</resources>
